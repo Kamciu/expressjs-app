@@ -1,8 +1,8 @@
 {
 
-	"uid": "expressjsapp"
+	"uid": "expressjsapp",
 	"append": true,
 	"watch": false,
-	"script": "app.js"
+	"script": "app.js",
 	"sourceDir": "/var/www/app/dist"
 }
